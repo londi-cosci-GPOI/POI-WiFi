@@ -3,7 +3,7 @@
 # Project Charter
 
 ### OBIETTIVI
-L'obiettivo del progetto consiste nel realizzare un'applicazione che, sfruttando 	un database, permetta ai visitatori che usufruiscono del servizio, di visualizzare 	contenuti multimediali sui POI(Point Of Interest) distribuiti nel centro storico 	della città.
+L'obiettivo del progetto consiste nel realizzare un'applicazione che, sfruttando 	un database, permetta ai visitatori che usufruiscono del servizio, di visualizzare 	contenuti multimediali sui POI (Point Of Interest) distribuiti nel centro storico 	della città tramite tablet forniti dall'Assessorato al Turismo
 
 ### PRINCIPALI DELIVERABLE
 - Project Management: Pianificazione con analisi e dialogo con cliente per soddisfare le
