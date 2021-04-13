@@ -6,8 +6,7 @@
 L'obiettivo del progetto consiste nel realizzare un'applicazione che, sfruttando 	un database, permetta ai visitatori che usufruiscono del servizio, di visualizzare 	contenuti multimediali sui POI(Point Of Interest) distribuiti nel centro storico 	della città.
 
 ### PRINCIPALI DELIVERABLE
-- Project Management: Pianificazione
-- Project Management: analisi e dialogo con cliente per soddisfare le
+- Project Management: Pianificazione con analisi e dialogo con cliente per soddisfare le
    specifiche
 - Progettazione: Creazione di database e successiva implementazione su server dedicato
 - Progettazione: Creazione interfaccia utente
@@ -15,33 +14,34 @@ L'obiettivo del progetto consiste nel realizzare un'applicazione che, sfruttando
 - Esecuzione: Installazione e collaudo/test 
 
 ### MILESTONE
-- Creazione di pagina multimediale di base
-- Creazione pagina multimediale avanzata
-- Implementazione delle varie tariffe previste 
+- Pianificazione
+- Progettazione completa
+- Rilascio 
 
 ### VINCOLI E DIPENDENZE
-- La consultazione delle pagine multimediali sia abilitata esclusivamente ai dispositivi (minitablet) forniti all’atto dell’acquisto del biglietto, previa consegna di un documento di identità o di un numero di carta di credito valida.
+- La consultazione delle pagine multimediali sia abilitata esclusivamente ai dispositivi (minitablet) forniti all’atto dell’acquisto del biglietto, previa consegna di un documento di identità o di un numero di carta di credito valida
 
-- Per facilitare l’aggiornamento periodico dei contenuti esistenti e l’inserimento di nuovi, gli stessi non siano memorizzati sui dispositivi utilizzati dagli utenti ma su sistemi server.
+- Per facilitare l’aggiornamento periodico dei contenuti esistenti e l’inserimento di nuovi, gli stessi non siano memorizzati sui dispositivi utilizzati dagli utenti ma su sistemi server
 
-- L’accesso alle pagine multimediali sia effettuabile solo dopo l’inserimento, all’inizio della visita, della password presente nel biglietto.
+- L’accesso alle pagine multimediali sia effettuabile solo dopo l’inserimento, all’inizio della visita, della password presente nel biglietto
 
-- L’accesso alle pagine multimediali relative ad un POI debba avvenire solo in prossimità o all’interno del POI stesso.
+- L’accesso alle pagine multimediali relative ad un POI debba avvenire solo in prossimità o all’interno del POI stesso
 
-- La restituzione dei dispositivi (minitablet) possa avvenire presso l’InfoPoint che ha in custodia il documento di identità oppure presso un qualsiasi InfoPoint se il visitatore ha optato per lasciare il numero di carta di credito valida.
+- La restituzione dei dispositivi (minitablet) possa avvenire presso l’InfoPoint che ha in custodia il documento di identità oppure presso un qualsiasi InfoPoint se il visitatore ha optato per lasciare il numero di carta di credito valida
 
 ### TEMPISTICA PRELIMINARE
-Il progetto inzia l'1 aprile e deve concludersi entro 45 gg 
+- Il progetto inzia l'1 aprile e deve concludersi entro 45 gg 
 
-### PRINCIPALI RISORSE
-- Le risorse materiali impegnate riguardano le postazioni di lavoro dei programmatori e macchine fotografiche per ricavare le foto su ogni POI.
+### PRINCIPALI RISORSE E LIMITI DI COSTO
+- Il progetto ha un costo di realizzazione stimato sui 2000 euro
 
-- Server che permetta di contenere il database sui diversi POI.
+- Il progetto dovrà fornire profitto immediato pari a 3000 euro circa
 
-- Diversi acces point per ogni POI(Per esempio Wi-Fi dedicate).
+- Le risorse materiali impegnate riguardano le postazioni di lavoro dei programmatori, i dipendenti dell'azienda, il server e i tablet da fornire al cliente
 
-- Acquisto di tablet per poter usufruire del servizio.
+### DOCUMENTI DI RIFERIMENTO E ALLEGATI
+Business plan aziendale per il progetto
 
 ### STRUTTURA ORGANIZZATIVA
 - Il Project Manager del progetto sarà il responsabile Mario Rossi
-- Il Team di progetto sarà costituito da altre 8 persone
+- Il Team di progetto sarà costituito da altre 6 persone
