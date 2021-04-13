@@ -9,8 +9,9 @@ L'obiettivo del progetto consiste nel realizzare un'applicazione che, sfruttando
 - Project Management: Pianificazione
 - Project Management: analisi e dialogo con cliente per soddisfare le
    specifiche
-- Progettazzione: interfaccia utente
-- Progettazzione: creazione dei contenuti multimediali 
+- Progettazione: Creazione di database e successiva implementazione su server dedicato
+- Progettazione: Creazione interfaccia utente
+- Progettazione: Creazione dei contenuti multimediali 
 - Esecuzione: Installazione e collaudo/test 
 
 ### MILESTONE
