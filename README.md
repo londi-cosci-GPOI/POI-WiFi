@@ -1,5 +1,6 @@
 # POI-WiFi
 
+
 # Project Charter
 
 ### OBIETTIVI
@@ -45,3 +46,7 @@ Business plan aziendale per il progetto
 ### STRUTTURA ORGANIZZATIVA
 - Il Project Manager del progetto sarà il responsabile Mario Rossi
 - Il Team di progetto sarà costituito da altre 6 persone
+
+# WBS del progetto
+
+<img width="522" alt="WBS" src="https://user-images.githubusercontent.com/62752084/114608218-bc6d2480-9c9d-11eb-8191-4e2869110b60.PNG">
