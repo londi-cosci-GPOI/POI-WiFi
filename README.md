@@ -52,7 +52,6 @@ Business plan aziendale per il progetto
 <img width="522" alt="WBS" src="https://user-images.githubusercontent.com/62752084/114608218-bc6d2480-9c9d-11eb-8191-4e2869110b60.PNG">
 
 
-
 # Diagramma RBS
 
 ### Fase di avvio 
