@@ -56,31 +56,31 @@ Business plan aziendale per il progetto
 
 ### Fase di avvio 
 
-- l'acquisizione del ambiente di sviluppo coinsiste nel acquisto dei softewere che andremo ad utilizzare, sia per la programmazione frontend and backend
-come può essere l'ultima versione di javascript o di una piattaforma che permette di scrivere in php o html come per esempio visual studio
+- L'acquisizione dell'ambiente di sviluppo consiste nell'acquisto dei software che andremo ad utilizzare, sia per la programmazione frontend che backend
+come può essere l'ultima versione di javascript o di una piattaforma che permette di scrivere in PHP o HTML come per esempio Visual Studio o
 l'ultima versione di java 
 
 ### Pianificazione
 
-- la progettazione del databese si occupera di produrre il database in tutte le sue sfacciettature, e comprendere il funzionamento questa parte sarà a cura del intero team di 
-sviluppo ognni dipendente quindi verà retribuito con una paga oaria di 25 euro al ora
+- La progettazione del database si occuperà di produrre il database in tutte le sue sfacciettature e comprendere il funzionamento, questa parte sarà a cura dell'intero team di 
+sviluppo, ogni dipendente quindi verrà retribuito con una paga oraria di 25 euro l'ora
 
-- l'analisi e dialogo con il cliente avviene per risolvere i problemi e sistemare il programma inbase alle richieste specifiche del cliente
-si usa in questo caso le risorse umane, si dovrà quindi pagare un adetto che curi la comunicazione ipotizzando la paga oraria di 25euro al ora
+- L'analisi e il dialogo con il cliente avviene per risolvere i problemi e sistemare il programma in base alle richieste specifiche del cliente.
+Si usano in questo caso le risorse umane, si dovrà quindi pagare un'addetto che curi la comunicazione ipotizzando una paga oraria di 25 euro l'ora
 
-### Realizazzione 
+### Realizzazione 
 
-- lo sviluppo database e l'implementazione sul server sono una fase dove si deve utilizzare un quantitativo di risorse umane elevate e con delle specifiche competenze,
-si può comunque utilizzare metà del team di sviluppo,ogni dipendente possiederà una paga oraria di 30 euro al ora 
+- Lo sviluppo del database e l'implementazione sul server sono una fase dove si deve utilizzare un quantitativo di risorse umane elevate con delle specifiche competenze,
+si può comunque utilizzare metà del team di sviluppo, ogni dipendente avrà una paga oraria di 30 euro l'ora
 
-- per l'interfaccia utente si può utilizzare la seconda parte del team si utilizzarà un le risorse umane e con delle specifiche competenze, ogni dipendente possiederà una paga oraria di 30 euro al ora 
+- Per l'interfaccia utente si può utilizzare la seconda parte del team, si utilizzeranno le risorse umane con delle specifiche competenze, ogni dipendente possiederà una paga oraria di 30 euro l'ora 
 
-- realizzazione contenuti multimediali sarà una parte di sviluppo importante e si svolgerà con l'utilizzo del intero team, i dipendenti verranno pagati 30 euro all'ora 
+- La realizzazione dei contenuti multimediali sarà una parte di sviluppo importante e si svolgerà con l'utilizzo dell'intero team, i dipendenti verranno pagati 30 euro l'ora 
 
 ### Chiusura 
 
-- installazione e collaudo, si tratta di una fase semplice ma allo stesso tempo estremamente critica,
-per istallare il softwere e collaudarlo si utilizzerà un numero ristretto di dipendenti che lavoreranno con una paga oraria di 32 euro l'ora.
+- Installazione e collaudo, si tratta di una fase semplice ma allo stesso tempo estremamente critica,
+per installare il software e collaudarlo si utilizzerà un numero ristretto di dipendenti che lavoreranno con una paga oraria di 32 euro l'ora.
 
 
 # Diagramma di Gantt
